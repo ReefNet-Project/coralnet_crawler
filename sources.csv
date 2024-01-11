@@ -1,0 +1,126 @@
+Source,Confirmed images,Valid,lowest labelset level,comments
+2002,640,yes,hard coral,
+2016,640,yes,hard coral,
+19.20.21.22 South coast intertidal surveys,757,no,,temperate intertidal algae survey
+2Maldives_2Katie,6604,yes,genus,
+403 HeÊ»eia Restoration '21,675,yes,species + health,uploaded for students at University of Hawai'i
+403 He'eia Restoration,1233,yes,species +health,uploaded for students at University of Hawai'i
+5 Mile Seasonal Study,1557,FEW,species,"more temperate deeper corals, not the ones common on tropical reefs"
+Ain Sukhna Sea Urchin and Coral Cover,595,yes,hard coral,
+Ant,3098,yes,genus level,
+Antigua_weird,1706,yes,species,
+APN Project,962,yes,growthform,
+BHP GSR Fiji,1268,yes,hard coral,
+BIO 403,1259,yes,hard coral,
+BIO403 Green Group,804,yes,hard coral,
+BTS_DEF,6569,yes,species + health,
+Cape Maeda2021,602,yes,genus,
+Capstone 2023,939,yes,species + health,
+carib,14291,yes,species,
+carib_bitbybit,8859,yes,species,check it does not contain the same info as carib or Caribbean bitbybit 2 cb3 or cb4
+Caribbean bitbybit 2,1000,yes,species,check it does not contain the same info as carib or carib_bitbybit
+cb3,5000,yes,species,check it does not contain the same info as carib or carib_bitbybit
+cb4,5000,yes,species,check it does not contain the same info as carib or carib_bitbybit
+Chao Jing Park Surveys æ½®å¢ƒå…¬åœ’èª¿æŸ¥,1428,yes,genus + growthform,
+Chieh-Jhen Chen,660,FEW,species,just a few coral species that are likely not common on tropical shallow reefs
+CoralNet,671,yes,genus,
+CoralNet_Assistance_Test_0921,4271,yes,genus,
+CPP_ROV,724,no,,kelp forest surveys with BLUEROV
+CREP- REA Calibration-NWHI,713,yes,genus,duplicate of HAWAII data used as a test for annotators of the CRED/REA projects
+CREP-REA HAWAII,37984,yes,genus,High quality dataset with published accuracy methodology
+CREP-REA HAWAII_v2,16438,yes,genus,High quality dataset with published accuracy methodology
+CREP-REA MARIANAS,18858,yes,genus,High quality dataset with published accuracy methodology
+CREP-REA NWHI 2017 Tiny Photos,570,yes,genus,High quality dataset with published accuracy methodology
+CREP-REA SAMOA/PRIA,63263,yes,genus,High quality dataset with published accuracy methodology
+CREP-REA SAMOA/PRIA Calibration,1686,yes,genus,"Check overlap with CREP_REA SAMOA/PRIA, High quality dataset with published accuracy methodology"
+CREP-REA SAMOA/PRIA_V2,31379,yes,genus,"Check overlap with CREP_REA SAMOA/PRIA, High quality dataset with published accuracy methodology"
+curacao,5771,yes,species,
+CVCE Bocas Del Toro Survey,750,yes ,species,only a few species
+Derwent seagrasses,940,no,,seagrass survey
+Diadema surveys,530,FEW,hard coral,mostly an algae survey
+ESD_MARIANA_2022_BIA_Calibration,695,yes,genus,duplicate of MARIANA NCRMO BIA survey to check for observer bias
+ESD_REA_MARIANA_v2,15341,yes,genus,High quality dataset with published accuracy methodology
+French Polynesia SEA Reef Surveys,1049,yes,genus,work of master thesis student 
+G_Walls_StFX,1119,no,,temperate work on lobsters
+"Halophila in the North Beach, Eilat",594,no,,focussed on halophila algae
+Hawaii_Leleiwi,525,yes,species,there are 'sister sources' with less than 500 images for this source at different islands that use the comparable labelsets and methods
+HLO GSL,2480,no,,other underwater habitats
+island wide,564,yes,species,data from OAHU
+Israel Monitoring program,5994,FEW,species,4 coral species present mainly other invertrebrates and algae
+Kahekili,13583,yes,species,likely high quality
+Kimbe Bay study,511,yes,growthform,descriptive labels about the corralites 
+Koloa Landing 2022-23 Random Transects,624,yes ,species,has 'sister sources' with similar methodology
+Kulbul,2664,yes,growthform,
+Laura - Intertidal winter surveys 14,863,no,,
+mal100,4999,yes,genus,
+Maldives_2021,7042,yes,genus,another hughrunyan let's ask him about data duplication
+Maldives_2022,7195,yes,genus,another hughrunyan let's ask him about data duplication
+maldives_bbb5,998,yes,genus,another hughrunyan let's ask him about data duplication
+maldives_bbb6,1000,yes,genus,another hughrunyan let's ask him about data duplication
+Maldives_bitbybit3,4999,yes,genus,another hughrunyan let's ask him about data duplication
+maldives_check2020,4824,yes,genus,another hughrunyan let's ask him about data duplication
+maldives_check2021,2378,yes,genus,another hughrunyan let's ask him about data duplication
+Maldives_Katie,6196,yes,genus,another hughrunyan let's ask him about data duplication
+maldives_theirs2,8852,yes,genus,another hughrunyan let's ask him about data duplication
+MarineGEO Hong Kong,1237,no,,ARMS' monitoring of biofouling
+Maui_Honolua,670,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Kanahena Bay,653,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Mahinahina,506,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Molokini,664,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Olowalu,678,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Papa'ula,660,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maui_Puamana,587,yes,species + health,likely high quality related with other CRAMP datasets starting with 'Hawaii' or 'Maui'
+Maunalua Bay,582,yes,hard coral,
+Maunalua Bay Nearshore (official),521,yes,species,
+MBON,540,no,,
+MBON P2P (AMPs.ARG),871,no,,
+MBON_AR_CO_EC,812,no,,
+Micro,3027,yes,genus,another hughrunyan let's ask him about data duplication
+micro_bbb4,5000,yes,genus,another hughrunyan let's ask him about data duplication
+Micro_challenge,7081,yes,genus,another hughrunyan let's ask him about data duplication
+micro_combined,20835,yes,genus,another hughrunyan let's ask him about data duplication
+micro100,5000,yes,genus,another hughrunyan let's ask him about data duplication
+Micronesia_2022,14948,yes,genus,another hughrunyan let's ask him about data duplication
+Micronesia_bitbybit2,2000,yes,genus,another hughrunyan let's ask him about data duplication
+Micronesia_bitbybit3,4999,yes,genus,another hughrunyan let's ask him about data duplication
+MLC2008,671,yes,genus,
+montserrat,5079,yes,genus,another hughrunyan let's ask him about data duplication
+Moreton Bay Transects,718,yes,genus + health,
+N. Caribbean ACA,751,yes,growthform + Acropora,
+NFWF_Corrected,988,yes,species,still being updated and contains orthomosaic chunks
+NOAA ESD CAU,1276,no,,ARMS' monitoring of biofouling
+NOAA ESD Coral Bleaching Classifier,4221,yes,hard coral + bleach,
+Norfolk Benthic Cover Longterm Monitoring 2020 to August 2023,3903,yes,genus + growthform + health,
+North Shore Disease Surveys,1779,yes,genus,
+NTL_SeaGrass,1172,no,,
+Okinawa Coral Reef Conservation2017-18,2820,yes,genus,
+Okinawa Coral Reef Conservation2019-20,3000,yes,genus,sister source available with same methodology and labels for 2021 only 20 confirmed images though
+Penida benthic surveys,969,yes,genus,still being updated
+Pohnpei,687,yes,genus,another hughrunyan let's ask him about data duplication
+Port Hawkesbury Deployment 1.0,720,no,,
+REEFolution Kenya,1600,yes,genus,
+"Rocky Reef Biodiversity Survey: Punta Pardelas, Argentina",560,no,,
+Saudi Red Sea Seasonal Differences: Offshore-Midshelf sheltered crest,2407,yes,growthform + health,
+Saudi Red Sea Seasonal Differences: Offshore-Midshelf sheltered slope,2579,yes,growthform + health,
+SEAMOBB-3_France,1296,no,,ARMS' monitoring of biofouling
+SFS Mangrove DR,1215,yes,hard coral,seems inaccurate
+Sint Eustatius,1638,yes,species,master project
+Southern Arabian Gulf Biodiversity Assessment 2019,1782,yes,species,
+Southern Line Islands,2211,yes,genus,
+STINAPA GCRMN,869,yes,species + health,
+TIBS Directed Research Mangroves,570,yes,hard coral,
+Tonga,8706,yes,growthform + Acropora + porites,
+Tonga_2022-08 & Samoa_2022-09 & Samoa_2019-12 & Samoa_2017-12,6958,yes,species,most labels are genus level
+TUMCA Ecological Survey,915,yes ,growthform,
+USSGuardianWreck,990,yes,growthform + Acropora,
+Valentina Rocha,600,yes,species,
+Vamizi,1522,yes,genus,
+Vavau,3880,yes ,genus,
+WAPA Coral Inventory 2.0,3037,yes,species,
+WAPA Interns,1034,yes,species,classified by interns trained by War in the Pacific National Historical Park GUAM
+WAPA RFI,3734,yes,species,
+WAPA RFM,4649,yes,species + health,also many genus level classes
+West_Hawaii_eDNA_2022,1204,yes ,species,
+Windward,3242,yes,genus,another hughrunyan let's ask him about data duplication
+WSU West Hawaii,3942,yes,species,
+ZONE 3 new,505,yes,growthform,
