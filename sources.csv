@@ -21,7 +21,7 @@ carib_bitbybit,8859,yes,species,check it does not contain the same info as carib
 Caribbean bitbybit 2,1000,yes,species,check it does not contain the same info as carib or carib_bitbybit
 cb3,5000,yes,species,check it does not contain the same info as carib or carib_bitbybit
 cb4,5000,yes,species,check it does not contain the same info as carib or carib_bitbybit
-Chao Jing Park Surveys æ½®å¢ƒå…¬åœ’èª¿æŸ¥,1428,yes,genus + growthform,
+Chao Jing Park Surveys 潮境公園調查,1428,yes,genus + growthform,
 Chieh-Jhen Chen,660,FEW,species,just a few coral species that are likely not common on tropical shallow reefs
 CoralNet,671,yes,genus,
 CoralNet_Assistance_Test_0921,4271,yes,genus,
@@ -33,7 +33,7 @@ CREP-REA MARIANAS,18858,yes,genus,High quality dataset with published accuracy m
 CREP-REA NWHI 2017 Tiny Photos,570,yes,genus,High quality dataset with published accuracy methodology
 CREP-REA SAMOA/PRIA,63263,yes,genus,High quality dataset with published accuracy methodology
 CREP-REA SAMOA/PRIA Calibration,1686,yes,genus,"Check overlap with CREP_REA SAMOA/PRIA, High quality dataset with published accuracy methodology"
-CREP-REA SAMOA/PRIA_V2,31379,yes,genus,"Check overlap with CREP_REA SAMOA/PRIA, High quality dataset with published accuracy methodology"
+CREP-REA SAMOA/PRIA v2,31379,yes,genus,"Check overlap with CREP_REA SAMOA/PRIA, High quality dataset with published accuracy methodology"
 curacao,5771,yes,species,
 CVCE Bocas Del Toro Survey,750,yes ,species,only a few species
 Derwent seagrasses,940,no,,seagrass survey
