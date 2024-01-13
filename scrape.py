@@ -34,11 +34,11 @@ def dowload_source_images(source_name ,images_number, first_image_number):
         # now get the image from the URL
         r = requests.get(url, allow_redirects=True)
         # Create the folder if it doesn't exist
-        if not os.path.exists(source_name+'/images'):
-            os.makedirs(source_name+'/images')
+        if not os.path.exists(f'output/{source_name}/images'):
+            os.makedirs(f'output/{source_name}/images')
 
         # Full path for the image
-        image_path = os.path.join(source_name + '/images', image_name)
+        image_path = os.path.join(f'output/{source_name}/images', image_name)
         # Write it to a local file in the specified folder
         with open(image_path, 'wb') as file:
             file.write(r.content)
@@ -56,7 +56,7 @@ def main():
         first_image_number = row['FirstImageNumber']
         # dowload images for the source 
         dowload_source_images(source_name ,images_number, first_image_number)
-
+    
     logging.info("Script finished")
     return
 
