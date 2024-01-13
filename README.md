@@ -12,3 +12,4 @@ to run the script
 2. prepare a csv file called sources that contains the list of valid sources for download
 3. run get_sources_data.py to gather the necessary information about all sources from coralnet website and save it into sources_data.csv
 4. run scrape.py to download all images
+5. to run scarpe_annotations.py you need to make copy of .example.env and rename it .env and put your credentials in it then you can run it to download all annotations.
