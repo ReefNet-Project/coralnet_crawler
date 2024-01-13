@@ -6,8 +6,7 @@ import os
 import logging
 
 # Basic logging configuration
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
+logging.basicConfig(filename='scrape_logs.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def dowload_source_images(source_name ,images_number, first_image_number):
     logging.info(f"Downloading images for {source_name} from {first_image_number} to {first_image_number + images_number - 1}")
