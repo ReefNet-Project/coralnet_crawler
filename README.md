@@ -186,7 +186,7 @@ If you use this script or any data processed with it in your work, please cite o
 
 ---
 
-## Contributor 
+## Maintainer 
 - [Yahia Battach](https://github.com/shakesBeardZ/) — Creator and Maintainer
 
 ---
