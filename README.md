@@ -186,13 +186,13 @@ If you use this script or any data processed with it in your work, please cite o
 
 ---
 
-## Contributors
-- [Your Name](https://github.com/yourusername) — Author
+## Contributor 
+- [Yahia Battach](https://github.com/shakesBeardZ/) — Creator and Maintainer
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it with attribution.
+This project is licensed under the [CC BY 4.0](LICENSE). You are free to use, modify, and distribute it with attribution.
 
 ---
