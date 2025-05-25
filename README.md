@@ -2,7 +2,9 @@
 
 ## Intro
 
-this repo contains scripts to help scrape images from https://coralnet.ucsd.edu/ for research purposes, the scripts deal only with the open sources images that are publicly accissible, this project fits into the efforts of a research project aimed to use AI to automatically identify corals. 
+This code is provided as part of the ReefNet project, and specifically the ReerNet paper submitted to NeurIPS Dataset and Benchmark track 2025, find details here: [link](https://reefnet-project.github.io/reefnet-2025/)
+
+this repo contains scripts to help scrape images from https://coralnet.ucsd.edu/ for research purposes, the scripts deal only with the public sources images that are publicly accissible, this project fits into the efforts of a research project aimed to use AI to automatically identify corals. 
 
 ## Details
 

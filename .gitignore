@@ -2,3 +2,27 @@
 .env
 output
 .venv
+
+metadata/
+output/
+
+copy_meta.ipynb
+
+filter.ipynb
+filter_confirmed_images.ipynb
+folder_ann.csv
+labels_df.csv
+labelset.csv
+list.sh
+rsg_data.csv
+scrape_annotations_notimeout.py
+scrape_labelsets.log
+scrape_labelsets.py
+scrape_logs.log
+scrape_metadata.log
+scrape_metadata.py
+source_list.csv
+sources_data _ann.csv
+sources_data _ann2.csv
+sources_data _metadata.csv
+verify.ipynb
